@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "firstname": "IRADUKUNDA",
+        "lastname": "tomas",
+        "information": "After making any changes, rebuild your application and restart the development server",
+        "image": "string",
+        "flower": "345",
+        "flowing":" 23",
+        "repos": "5",
+        "city": "kigali"
+    },  
+    {
+        "id": "2",
+        "firstname": "twizerimana",
+        "lastname": "gedeon",
+        "information": "After making any changes, rebuild your application and restart the development server",
+        "image": "string",
+        "flower": "67",
+        "flowing": "6789",
+        "repos": "10",
+        "city": "Nairobi"
+    },
+    {
+        "id": "3",
+        "firstname": "mwizerwa",
+        "lastname": "eugenne",
+        "information": "After making any changes, rebuild your application and restart the development server",
+        "image": "string",
+        "flower": "980",
+        "flowing": "56",
+        "repos":"30",
+        "city": "Kampala"
+    }
+]
